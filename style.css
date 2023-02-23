@@ -17,8 +17,8 @@
 }
 
 .circle_img{
-    width: 200px;
-    height: 200px;
+    width: calc(100px + 5vw);
+    height: calc(100px + 5vw);
     border-radius: 50%;
     margin: 2vw;
     object-fit: cover;
