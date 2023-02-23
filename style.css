@@ -1,0 +1,45 @@
+*{
+    font-family: Quicksand, Helvetica, sans-serif;
+}
+
+.main-body{
+    background-color: #ffcf75;
+    color: #0f3641;
+}
+
+.main-body-gradient{
+    background-image: linear-gradient(45deg, #ffcf75, #fff0d4);
+}
+
+.dark-body{
+    background-color: #0f3641;
+    color: #ffe2ab;
+}
+
+.circle_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 2vw;
+    object-fit: cover;
+}
+
+.btn-special{
+    background-color: #ffcf75;
+    color: #0f3641;
+    transition: all 250ms ease-in-out;
+    font-weight: 800;
+}
+
+.btn-special:hover{
+    background-color: #ad8334;
+    color: #ffffff; 
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-fit{
+    width: 100%;
+}
