@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: 'Sniglet';
-    src: url('/adambft_portfolio/public/assets/fonts/Sniglet/Sniglet-Regular.ttf');
+    src: url('/public/assets/fonts/Sniglet/Sniglet-Regular.ttf');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Sniglet';
-    src: url('/adambft_portfolio/public/assets/fonts/Sniglet/Sniglet-ExtraBold.ttf');
+    src: url('/public/assets/fonts/Sniglet/Sniglet-ExtraBold.ttf');
     font-weight: bold;
 }
