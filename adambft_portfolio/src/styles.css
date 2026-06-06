@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'Sniglet';
+    src: url('/adambft_portfolio/public/assets/fonts/Sniglet/Sniglet-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Sniglet';
+    src: url('/adambft_portfolio/public/assets/fonts/Sniglet/Sniglet-ExtraBold.ttf');
+    font-weight: bold;
+}
